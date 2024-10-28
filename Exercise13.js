@@ -1,4 +1,4 @@
-// 3. Build a To-Do List with Add and Remove Functionality
+// Build a To-Do List with Add and Remove Functionality
 // Challenge: Create a to-do list where users can add tasks by typing into an input field and pressing "Add." Each task should have a "Remove" button to delete the task.
 // Why This Matters: Managing lists and state updates is a common task in React applications, especially for building dynamic user interfaces.
 

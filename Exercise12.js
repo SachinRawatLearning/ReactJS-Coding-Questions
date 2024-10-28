@@ -1,4 +1,4 @@
-// 2. Create a Form to Capture User Input
+// Create a Form to Capture User Input
 // Challenge: Implement a form with two input fields—name and email. The values should update dynamically as the user types, and when the form is submitted, the entered data should appear on the screen
 // Why This Matters: Handling form input in React is a critical skill, especially for applications requiring user interactions, like login forms or search fields.
 
